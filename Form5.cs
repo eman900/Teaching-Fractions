@@ -271,7 +271,9 @@ namespace WindowsFormsApplication1
             represent();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        
+
+        private void button2_Click_1(object sender, EventArgs e)
         {
             switch (num)
             {
@@ -281,7 +283,7 @@ namespace WindowsFormsApplication1
                         t.Play();
                     }
                     else if (dem == 5) { t2.Play(); }
-                    else if (dem == 6) { t3.Play();  }
+                    else if (dem == 6) { t3.Play(); }
                     else if (dem == 7) { t4.Play(); }
                     else if (dem == 8) { t5.Play(); }
                     break;
@@ -307,7 +309,7 @@ namespace WindowsFormsApplication1
                     break;
             }
         }
-        }
+    }
 
    
 }
