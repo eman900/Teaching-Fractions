@@ -28,7 +28,6 @@ namespace WindowsFormsApplication1
             {
                 SoundPlayer t = new SoundPlayer("sounds/welcome.wav");
                 t.Play();
-                Class1.n = textBox1.Text;
                 Form13 F = new Form13();
                 this.Hide();
                 F.Show();

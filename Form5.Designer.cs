@@ -168,7 +168,6 @@
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form5";
             this.Text = "تمثيل الكسور";
-            this.Load += new System.EventHandler(this.Form5_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
             this.ResumeLayout(false);

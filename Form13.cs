@@ -22,11 +22,7 @@ namespace WindowsFormsApplication1
             Application.Exit();
         }
 
-        private void Form13_Load(object sender, EventArgs e)
-        {
-            textBox1.Text = Class1.n;
-           
-        }
+        
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -35,7 +31,12 @@ namespace WindowsFormsApplication1
             this.Hide();
         }
 
-       
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form7 f = new Form7();
+            f.Show();
+            this.Hide();
+        }
 
         private void axWindowsMediaPlayer1_Enter(object sender, EventArgs e)
         {

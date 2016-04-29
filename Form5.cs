@@ -196,23 +196,7 @@ namespace WindowsFormsApplication1
             this.Hide();
         }
 
-        private void Form5_Load(object sender, EventArgs e)
-        {
-            textBox1.Text = Class1.n;
-           /* Graphics gr = panel1.CreateGraphics();
-            Rectangle r = new Rectangle(1, 1, 120, 120);
-
-            Pen p1 = new Pen(Color.Black, 2);
-            SolidBrush fill = new SolidBrush(Color.Orange);
-            int sweepAngle = 90;
-            int startAngle = 0;
-            gr.DrawPie(p1, r, startAngle, sweepAngle);
-            gr.FillPie(fill, r, startAngle, sweepAngle);
-            gr.DrawPie(p1, r, startAngle, sweepAngle);
-
-            label2.Text = (" 1\n____\n 4");*/
-            
-        }
+       
 
         private void button1_Click(object sender, EventArgs e)
         {
