@@ -71,19 +71,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>Dx1xLwBMftDGoyzjqmmzkYuWfwU=</dsig:DigestValue>
+        <dsig:DigestValue>K/HesfI4xprKPVcXyCpezTalFyo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WindowsFormsApplication1.exe" size="3036024">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WindowsFormsApplication1.exe" size="3232144">
       <assemblyIdentity name="WindowsFormsApplication1" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>K+X/YbcgPxFx4b/SvRRudq2cg0w=</dsig:DigestValue>
+        <dsig:DigestValue>XjCCgpKF0p9lESZlDxm3/dbLbJ4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

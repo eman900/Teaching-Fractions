@@ -46,5 +46,12 @@ namespace WindowsFormsApplication1
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form7 f = new Form7();
+            f.Show();
+            this.Hide();
+        }
     }
 }
